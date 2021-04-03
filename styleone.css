@@ -121,11 +121,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-	background-image: url('C:/Users/hhhfh/Desktop/apple-button.png');
+	background-image: url('.image/apple-button.png');
 }
 
 .app-download:nth-child(2) {
-	background-image: url('C:/Users/hhhfh/Desktop/googleplay-button.png');
+	background-image: url('.image/googleplay-button.png');
 }
 
 @media (max-width: 1024px) {
